@@ -21,13 +21,13 @@ if ((server getVariable ["hardMode", false]) && (position player distance getMar
 _chequeo = false;
 _check1 = false;
 {_enemigo = _x;
-{if (((side _enemigo == side_red) or (side _enemigo == side_green)) and (_enemigo distance _x < 500) and (not(captive _enemigo))) exitWith {_check1 = true}} forEach units _grupo;
+{if (((side _enemigo == side_red) or (side _enemigo == side_green)) and (_enemigo distance _x < 250) and (not(captive _enemigo))) exitWith {_check1 = true}} forEach units _grupo;
 if (_check1) exitWith {};
 } forEach allUnits;
 
 _check2 = false;
 {_enemigo = _x;
-if (((side _enemigo == side_red) or (side _enemigo == side_green)) and (player distance _enemigo < 500) and (not(captive _enemigo))) exitWith {_check2 = true}} foreach allUnits;
+if (((side _enemigo == side_red) or (side _enemigo == side_green)) and (player distance _enemigo < 250) and (not(captive _enemigo))) exitWith {_check2 = true}} foreach allUnits;
 
 if (_check1 && _check2) exitWith {Hint "You cannot Fast Travel with enemies near the group"};
 
@@ -59,12 +59,12 @@ if (count _posicionTel > 0) then
 
 
 	{
-		if (((side _x == side_red) or (side _x == side_green)) and (_x distance (getMarkerPos _base) < 500) and (not(captive _x))) then {_chequeo = true};
+		if (((side _x == side_red) or (side _x == side_green)) and (_x distance (getMarkerPos _base) < 250) and (not(captive _x))) then {_chequeo = true};
 	} forEach allUnits;
 
 	if (_chequeo) exitWith {Hint "You cannot Fast Travel to an area under attack or with enemies in the surrounding"; openMap [false,false]};
 
-	if (_posicionTel distance getMarkerPos _base < 50) then
+	if (_posicionTel distance getMarkerPos _base < 150) then
 		{
 		_posicion = [getMarkerPos _base, 10, random 360] call BIS_Fnc_relPos;
 		_distancia = round (((position _jefe) distance _posicion)/200);
@@ -156,7 +156,7 @@ if (count _posicionTel > 0) then
 
 
 
-		if (!_esHC) then {disableUserInput false;cutText ["You arrived to destination","BLACK IN",3]} else {hint format ["Group %1 arrived to destination",groupID _grupo]};
+		if (!_esHC) then {disableUserInput false;cutText ["You have arrived at your destination","BLACK IN",3]} else {hint format ["Group %1 has arrived at their destination",groupID _grupo]};
 		if (_forzado) then {forcedSpawn = forcedSpawn - [_base]};
 		sleep 5;
 		{_x allowDamage true} forEach units _grupo;

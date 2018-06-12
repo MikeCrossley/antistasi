@@ -2128,7 +2128,7 @@ class HQ_button_Gsquad: RscButton
 	y = 0.317959 * safezoneH + safezoneY;
 	w = 0.175015 * safezoneW;
 	h = 0.0560125 * safezoneH;
-	action = "closeDialog 0;if (player != stavros) then {nul = [false] call garageVehicle} else {if (isMultiplayer) then {_nul = createDialog ""garage_check""} else {nul = [true] call garageVehicle}};";
+	action = "closeDialog 0;if (isMultiplayer) then {_nul = createDialog ""garage_check""} else {nul = [true] call garageVehicle};";
 };
 class HQ_button_Gstatic: RscButton
 {
@@ -2138,7 +2138,7 @@ class HQ_button_Gstatic: RscButton
 	y = 0.317959 * safezoneH + safezoneY;
 	w = 0.175015 * safezoneW;
 	h = 0.0560125 * safezoneH;
-	action = "closeDialog 0; if (player == stavros) then {nul = [] call sellVehicle} else {hint ""Only the Commander can sell vehicles""};";
+	action = "closeDialog 0; nul = [] call sellVehicle;";
 };
 
 /*

@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectRootNode Name="Antistasi" IsExpanded="true" FileName="">
+    <IsSelected>false</IsSelected>
+    <SubNodes>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="ai" IsExpanded="false" FileName="ai">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="aafkilledeh.sqf" IsExpanded="false" FileName="ai\aafkilledeh.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="aathreateval.sqf" IsExpanded="false" FileName="ai\aathreateval.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="airbomb.sqf" IsExpanded="false" FileName="ai\airbomb.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="airdrop.sqf" IsExpanded="false" FileName="ai\airdrop.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="airstrike.sqf" IsExpanded="false" FileName="ai\airstrike.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="artilleria.sqf" IsExpanded="false" FileName="ai\artilleria.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="artillerianato.sqf" IsExpanded="false" FileName="ai\artillerianato.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="artysupport.sqf" IsExpanded="false" FileName="ai\artysupport.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="attackdrill.sqf" IsExpanded="false" FileName="ai\attackdrill.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="autohealfnc.sqf" IsExpanded="false" FileName="ai\autohealfnc.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="autorearm.sqf" IsExpanded="false" FileName="ai\autorearm.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="ayudar.sqf" IsExpanded="false" FileName="ai\ayudar.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="capturar.sqf" IsExpanded="false" FileName="ai\capturar.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="conversation.sqf" IsExpanded="false" FileName="ai\conversation.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cubrirconhumo.sqf" IsExpanded="false" FileName="ai\cubrirconhumo.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="dismountfia.sqf" IsExpanded="false" FileName="ai\dismountfia.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fastropeaaf.sqf" IsExpanded="false" FileName="ai\fastropeaaf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fastropecsat.sqf" IsExpanded="false" FileName="ai\fastropecsat.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fastropenato.sqf" IsExpanded="false" FileName="ai\fastropenato.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="findsaferoadtounload.sqf" IsExpanded="false" FileName="ai\findsaferoadtounload.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="guarddog.sqf" IsExpanded="false" FileName="ai\guarddog.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="hasradio.sqf" IsExpanded="false" FileName="ai\hasradio.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="haylos.sqf" IsExpanded="false" FileName="ai\haylos.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="inmuneconvoy.sqf" IsExpanded="false" FileName="ai\inmuneconvoy.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="interrogar.sqf" IsExpanded="false" FileName="ai\interrogar.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="landthreateval.sqf" IsExpanded="false" FileName="ai\landthreateval.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="liberatepow.sqf" IsExpanded="false" FileName="ai\liberatepow.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="liberaterefugee.sqf" IsExpanded="false" FileName="ai\liberaterefugee.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="minesweep.sqf" IsExpanded="false" FileName="ai\minesweep.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="mortyai.sqf" IsExpanded="false" FileName="ai\mortyai.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="napalm.sqf" IsExpanded="false" FileName="ai\napalm.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="napalmdamage.sqf" IsExpanded="false" FileName="ai\napalmdamage.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="pedirayuda.sqf" IsExpanded="false" FileName="ai\pedirayuda.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="puertasland.sqf" IsExpanded="false" FileName="ai\puertasland.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="rearmcall.sqf" IsExpanded="false" FileName="ai\rearmcall.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="smokecover.sqf" IsExpanded="false" FileName="ai\smokecover.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="smokecoverauto.sqf" IsExpanded="false" FileName="ai\smokecoverauto.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="staticautot.sqf" IsExpanded="false" FileName="ai\staticautot.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="surrenderaction.sqf" IsExpanded="false" FileName="ai\surrenderaction.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="undercoverai.sqf" IsExpanded="false" FileName="ai\undercoverai.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="unlimitedammo.sqf" IsExpanded="false" FileName="ai\unlimitedammo.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="vantinfo.sqf" IsExpanded="false" FileName="ai\vantinfo.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="compositions" IsExpanded="false" FileName="compositions">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="clean_cmp.sqf" IsExpanded="false" FileName="compositions\clean_cmp.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cmpcamp.sqf" IsExpanded="false" FileName="compositions\cmpcamp.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cmpexp.sqf" IsExpanded="false" FileName="compositions\cmpexp.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cmpmtn.sqf" IsExpanded="false" FileName="compositions\cmpmtn.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cmpnato_rb.sqf" IsExpanded="false" FileName="compositions\cmpnato_rb.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cmpop.sqf" IsExpanded="false" FileName="compositions\cmpop.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cmpusaf_rb.sqf" IsExpanded="false" FileName="compositions\cmpusaf_rb.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="hq_adds.sqf" IsExpanded="false" FileName="compositions\hq_adds.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="create" IsExpanded="false" FileName="create">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="bis_fnc_spawngroup.sqf" IsExpanded="false" FileName="create\bis_fnc_spawngroup.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="civinit.sqf" IsExpanded="false" FileName="create\civinit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="civvehinit.sqf" IsExpanded="false" FileName="create\civvehinit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cleanserveh.sqf" IsExpanded="false" FileName="create\cleanserveh.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="combinedca.sqf" IsExpanded="false" FileName="create\combinedca.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createaasite.sqf" IsExpanded="false" FileName="create\createaasite.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createairbase.sqf" IsExpanded="false" FileName="create\createairbase.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createbase.sqf" IsExpanded="false" FileName="create\createbase.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createblackmarket.sqf" IsExpanded="false" FileName="create\createblackmarket.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createcampfia.sqf" IsExpanded="false" FileName="create\createcampfia.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createcity.sqf" IsExpanded="false" FileName="create\createcity.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createciv.sqf" IsExpanded="false" FileName="create\createciv.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createfiapower.sqf" IsExpanded="false" FileName="create\createfiapower.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createfiapuestos.sqf" IsExpanded="false" FileName="create\createfiapuestos.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createfiapuestos2.sqf" IsExpanded="false" FileName="create\createfiapuestos2.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createfiarecursos.sqf" IsExpanded="false" FileName="create\createfiarecursos.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createnatoaerop.sqf" IsExpanded="false" FileName="create\createnatoaerop.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createnatobases.sqf" IsExpanded="false" FileName="create\createnatobases.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createnatopuesto.sqf" IsExpanded="false" FileName="create\createnatopuesto.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createnomad.sqf" IsExpanded="false" FileName="create\createnomad.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createoutpost.sqf" IsExpanded="false" FileName="create\createoutpost.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createoutpostaa.sqf" IsExpanded="false" FileName="create\createoutpostaa.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createpower.sqf" IsExpanded="false" FileName="create\createpower.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createresources.sqf" IsExpanded="false" FileName="create\createresources.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createroadblock.sqf" IsExpanded="false" FileName="create\createroadblock.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createwatchpost.sqf" IsExpanded="false" FileName="create\createwatchpost.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="csatinit.sqf" IsExpanded="false" FileName="create\csatinit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="csatpunish.sqf" IsExpanded="false" FileName="create\csatpunish.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="csatvehinit.sqf" IsExpanded="false" FileName="create\csatvehinit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="despawncamp.sqf" IsExpanded="false" FileName="create\despawncamp.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="enemyqrf.sqf" IsExpanded="false" FileName="create\enemyqrf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="establishblackmarket.sqf" IsExpanded="false" FileName="create\establishblackmarket.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="expandgroup.sqf" IsExpanded="false" FileName="create\expandgroup.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fiainitbases.sqf" IsExpanded="false" FileName="create\fiainitbases.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="generatecrew.sqf" IsExpanded="false" FileName="create\generatecrew.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="geninit.sqf" IsExpanded="false" FileName="create\geninit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="geninitbases.sqf" IsExpanded="false" FileName="create\geninitbases.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="genroadpatrol.sqf" IsExpanded="false" FileName="create\genroadpatrol.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="genvehinit.sqf" IsExpanded="false" FileName="create\genvehinit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="minefieldaaf.sqf" IsExpanded="false" FileName="create\minefieldaaf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="mortarpos.sqf" IsExpanded="false" FileName="create\mortarpos.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="mortarqrf.sqf" IsExpanded="false" FileName="create\mortarqrf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natoarmor.sqf" IsExpanded="false" FileName="create\natoarmor.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natoca.sqf" IsExpanded="false" FileName="create\natoca.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natoinit.sqf" IsExpanded="false" FileName="create\natoinit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natoinitca.sqf" IsExpanded="false" FileName="create\natoinitca.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natoqrf.sqf" IsExpanded="false" FileName="create\natoqrf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natovehinit.sqf" IsExpanded="false" FileName="create\natovehinit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="patrolca.sqf" IsExpanded="false" FileName="create\patrolca.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="templateaaf.sqf" IsExpanded="false" FileName="create\templateaaf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="templatenato.sqf" IsExpanded="false" FileName="create\templatenato.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="templateopfor_csat.sqf" IsExpanded="false" FileName="create\templateopfor_csat.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="templaterhs.sqf" IsExpanded="false" FileName="create\templaterhs.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="templateusaf.sqf" IsExpanded="false" FileName="create\templateusaf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="templatevmf.sqf" IsExpanded="false" FileName="create\templatevmf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="vehdespawner.sqf" IsExpanded="false" FileName="create\vehdespawner.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="vehinit.sqf" IsExpanded="false" FileName="create\vehinit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="dialogs" IsExpanded="false" FileName="dialogs">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="bmdialog.sqf" IsExpanded="false" FileName="dialogs\bmdialog.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="buy_vehicle.sqf" IsExpanded="false" FileName="dialogs\buy_vehicle.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="buy_vehicle_civ.sqf" IsExpanded="false" FileName="dialogs\buy_vehicle_civ.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="dialoghq.sqf" IsExpanded="false" FileName="dialogs\dialoghq.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="firstload.sqf" IsExpanded="false" FileName="dialogs\firstload.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="initmenu.sqf" IsExpanded="false" FileName="dialogs\initmenu.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="membersmenu.sqf" IsExpanded="false" FileName="dialogs\membersmenu.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="minedialog.sqf" IsExpanded="false" FileName="dialogs\minedialog.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="squad_recruit.sqf" IsExpanded="false" FileName="dialogs\squad_recruit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="unit_recruit.sqf" IsExpanded="false" FileName="dialogs\unit_recruit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="welcome.sqf" IsExpanded="false" FileName="dialogs\welcome.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="missions" IsExpanded="false" FileName="missions">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="acq_rifles.sqf" IsExpanded="false" FileName="missions\acq_rifles.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="as_oficial.sqf" IsExpanded="false" FileName="missions\as_oficial.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="as_specop.sqf" IsExpanded="false" FileName="missions\as_specop.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="as_traidor.sqf" IsExpanded="false" FileName="missions\as_traidor.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="ataquehq.sqf" IsExpanded="false" FileName="missions\ataquehq.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="bm_missions.sqf" IsExpanded="false" FileName="missions\bm_missions.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="borrartask.sqf" IsExpanded="false" FileName="missions\borrartask.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="con_aa.sqf" IsExpanded="false" FileName="missions\con_aa.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="con_power.sqf" IsExpanded="false" FileName="missions\con_power.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="con_puestos.sqf" IsExpanded="false" FileName="missions\con_puestos.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="convoy.sqf" IsExpanded="false" FileName="missions\convoy.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="def_camp.sqf" IsExpanded="false" FileName="missions\def_camp.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="des_antena.sqf" IsExpanded="false" FileName="missions\des_antena.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="des_heli.sqf" IsExpanded="false" FileName="missions\des_heli.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="des_vehicle.sqf" IsExpanded="false" FileName="missions\des_vehicle.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fnd_civcon.sqf" IsExpanded="false" FileName="missions\fnd_civcon.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fnd_dealer.sqf" IsExpanded="false" FileName="missions\fnd_dealer.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fnd_expdealer.sqf" IsExpanded="false" FileName="missions\fnd_expdealer.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fnd_milcon.sqf" IsExpanded="false" FileName="missions\fnd_milcon.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="log_ammo.sqf" IsExpanded="false" FileName="missions\log_ammo.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="log_bank.sqf" IsExpanded="false" FileName="missions\log_bank.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="log_medical.sqf" IsExpanded="false" FileName="missions\log_medical.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="log_suministros.sqf" IsExpanded="false" FileName="missions\log_suministros.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="misreqciv.sqf" IsExpanded="false" FileName="missions\misreqciv.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="misreqmil.sqf" IsExpanded="false" FileName="missions\misreqmil.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="missionrequest.sqf" IsExpanded="false" FileName="missions\missionrequest.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="missionrequestauto.sqf" IsExpanded="false" FileName="missions\missionrequestauto.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="missionselect.sqf" IsExpanded="false" FileName="missions\missionselect.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natoammo.sqf" IsExpanded="false" FileName="missions\natoammo.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="pr_brainwash.sqf" IsExpanded="false" FileName="missions\pr_brainwash.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="pr_pamphlet.sqf" IsExpanded="false" FileName="missions\pr_pamphlet.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="rec_truck.sqf" IsExpanded="false" FileName="missions\rec_truck.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="rep_antena.sqf" IsExpanded="false" FileName="missions\rep_antena.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="res_prisioneros.sqf" IsExpanded="false" FileName="missions\res_prisioneros.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="res_refugiados.sqf" IsExpanded="false" FileName="missions\res_refugiados.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="municion" IsExpanded="false" FileName="municion">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="accionarsenal.sqf" IsExpanded="false" FileName="municion\accionarsenal.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="arsenalmanage.sqf" IsExpanded="false" FileName="municion\arsenalmanage.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="bmcrate.sqf" IsExpanded="false" FileName="municion\bmcrate.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="buygear.sqf" IsExpanded="false" FileName="municion\buygear.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cajaaaf.sqf" IsExpanded="false" FileName="municion\cajaaaf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="emptycrate.sqf" IsExpanded="false" FileName="municion\emptycrate.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="gearlist.sqf" IsExpanded="false" FileName="municion\gearlist.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="munitiontransfer.sqf" IsExpanded="false" FileName="municion\munitiontransfer.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natocrate.sqf" IsExpanded="false" FileName="municion\natocrate.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="randomrifle.sqf" IsExpanded="false" FileName="municion\randomrifle.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="rewardcrate.sqf" IsExpanded="false" FileName="municion\rewardcrate.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="rhsdress.sqf" IsExpanded="false" FileName="municion\rhsdress.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="suspendtransfer.sqf" IsExpanded="false" FileName="municion\suspendtransfer.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="transfer.sqf" IsExpanded="false" FileName="municion\transfer.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="vaciar.sqf" IsExpanded="false" FileName="municion\vaciar.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="orgplayers" IsExpanded="false" FileName="orgplayers">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="assignstavros.sqf" IsExpanded="false" FileName="orgplayers\assignstavros.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cleangear.sqf" IsExpanded="false" FileName="orgplayers\cleangear.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="commresign.sqf" IsExpanded="false" FileName="orgplayers\commresign.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="donatemoney.sqf" IsExpanded="false" FileName="orgplayers\donatemoney.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="ismember.sqf" IsExpanded="false" FileName="orgplayers\ismember.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="memberadd.sqf" IsExpanded="false" FileName="orgplayers\memberadd.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="memberslist.sqf" IsExpanded="false" FileName="orgplayers\memberslist.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="mlist.sqf" IsExpanded="false" FileName="orgplayers\mlist.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="playerscoreadd.sqf" IsExpanded="false" FileName="orgplayers\playerscoreadd.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="ranksmp.sqf" IsExpanded="false" FileName="orgplayers\ranksmp.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="resourcesplayer.sqf" IsExpanded="false" FileName="orgplayers\resourcesplayer.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="stavrosinit.sqf" IsExpanded="false" FileName="orgplayers\stavrosinit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="stavrossteal.sqf" IsExpanded="false" FileName="orgplayers\stavrossteal.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="unittraits.sqf" IsExpanded="false" FileName="orgplayers\unittraits.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="reinf" IsExpanded="false" FileName="reinf">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="addfiasquadhc.sqf" IsExpanded="false" FileName="reinf\addfiasquadhc.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="addfiaveh.sqf" IsExpanded="false" FileName="reinf\addfiaveh.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="addsquadveh.sqf" IsExpanded="false" FileName="reinf\addsquadveh.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="autogarrison.sqf" IsExpanded="false" FileName="reinf\autogarrison.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="buildminefield.sqf" IsExpanded="false" FileName="reinf\buildminefield.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="buyboat.sqf" IsExpanded="false" FileName="reinf\buyboat.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="controlhcsquad.sqf" IsExpanded="false" FileName="reinf\controlhcsquad.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="controlunit.sqf" IsExpanded="false" FileName="reinf\controlunit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="dismissplayergroup.sqf" IsExpanded="false" FileName="reinf\dismissplayergroup.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="dismisssquad.sqf" IsExpanded="false" FileName="reinf\dismisssquad.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fiainit.sqf" IsExpanded="false" FileName="reinf\fiainit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fiaskilladd.sqf" IsExpanded="false" FileName="reinf\fiaskilladd.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="garrisonadd.sqf" IsExpanded="false" FileName="reinf\garrisonadd.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="garrisondialog.sqf" IsExpanded="false" FileName="reinf\garrisondialog.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="groupcomposition.sqf" IsExpanded="false" FileName="reinf\groupcomposition.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="joinplayer.sqf" IsExpanded="false" FileName="reinf\joinplayer.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="leaveplayer.sqf" IsExpanded="false" FileName="reinf\leaveplayer.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natoarty.sqf" IsExpanded="false" FileName="reinf\natoarty.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natobomb.sqf" IsExpanded="false" FileName="reinf\natobomb.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natocas.sqf" IsExpanded="false" FileName="reinf\natocas.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natoroadblock.sqf" IsExpanded="false" FileName="reinf\natoroadblock.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natouav.sqf" IsExpanded="false" FileName="reinf\natouav.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="postmortem.sqf" IsExpanded="false" FileName="reinf\postmortem.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="reinfplayer.sqf" IsExpanded="false" FileName="reinf\reinfplayer.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="stealstatic.sqf" IsExpanded="false" FileName="reinf\stealstatic.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="vehicleprice.sqf" IsExpanded="false" FileName="reinf\vehicleprice.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="vehstats.sqf" IsExpanded="false" FileName="reinf\vehstats.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="revive" IsExpanded="false" FileName="revive">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="handledamage.sqf" IsExpanded="false" FileName="revive\handledamage.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="handledamageaaf.sqf" IsExpanded="false" FileName="revive\handledamageaaf.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="inconsciente.sqf" IsExpanded="false" FileName="revive\inconsciente.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="initrevive.sqf" IsExpanded="false" FileName="revive\initrevive.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="respawn.sqf" IsExpanded="false" FileName="revive\respawn.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="scripts" IsExpanded="false" FileName="scripts">
+        <IsSelected>true</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="bonus" IsExpanded="true" FileName="scripts\bonus">
+            <IsSelected>false</IsSelected>
+            <SubNodes>
+              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="composition_table.sqf" IsExpanded="false" FileName="scripts\bonus\composition_table.sqf">
+                <IsSelected>false</IsSelected>
+                <SubNodes />
+              </ProjectNodeViewModel>
+              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_anim.sqf" IsExpanded="false" FileName="scripts\bonus\upsmon_anim.sqf">
+                <IsSelected>false</IsSelected>
+                <SubNodes />
+              </ProjectNodeViewModel>
+            </SubNodes>
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon" IsExpanded="true" FileName="scripts\upsmon">
+            <IsSelected>false</IsSelected>
+            <SubNodes>
+              <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="common" IsExpanded="true" FileName="scripts\upsmon\common">
+                <IsSelected>false</IsSelected>
+                <SubNodes>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="buildings" IsExpanded="true" FileName="scripts\upsmon\common\buildings">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\buildings\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkdoorposition.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_checkdoorposition.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkfreebldpos.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_checkfreebldpos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkfreebldpos2.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_checkfreebldpos2.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkwindowposition.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_checkwindowposition.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_filterbuilding.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_filterbuilding.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_gethighestbldpos.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_gethighestbldpos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getnearestbuilding.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_getnearestbuilding.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getnearestbuildings.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_getnearestbuildings.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_inbuilding.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_inbuilding.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_isroof.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_isroof.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_sortoutbldpos.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_sortoutbldpos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_sortoutbldpos2.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_sortoutbldpos2.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_unitwatchdir.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_unitwatchdir.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_willsee.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\fnc\upsmon_willsee.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\buildings\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="core" IsExpanded="true" FileName="scripts\upsmon\common\core">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\core\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_addtoarray.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_addtoarray.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_arrayshuffleplus.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_arrayshuffleplus.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_cansee.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_cansee.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkbackpack.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_checkbackpack.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_createmarker.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_createmarker.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_createsign.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_createsign.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_deletedead.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_deletedead.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_deletewp.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_deletewp.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_distancepossqr.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_distancepossqr.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_doaddwp.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_doaddwp.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_docreatewp.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_docreatewp.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getarg.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_getarg.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getcos.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_getcos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getdirpos.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_getdirpos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getminesclass.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_getminesclass.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getnearestplayer.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_getnearestplayer.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getout.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_getout.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getpos2d.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_getpos2d.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getsin.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_getsin.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getunitsincargo.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_getunitsincargo.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_haslos.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_haslos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_los.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_los.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_nighttime.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_nighttime.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_nowp.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_nowp.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_overwatch.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_overwatch.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_randompos.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_randompos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_replace.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_replace.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_rotpoint.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_rotpoint.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_setarg.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_setarg.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_sn_ehfirednear.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_sn_ehfirednear.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_sn_ehhit.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_sn_ehhit.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_sn_ehkilled.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_sn_ehkilled.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_sn_ehkilledciv.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_sn_ehkilledciv.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_spawnmines.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_spawnmines.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_stayinside.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_stayinside.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_strindex.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_strindex.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_strinstr.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_strinstr.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_strlen.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_strlen.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_strtoarray.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_strtoarray.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_track.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_track.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_track2.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\fnc\upsmon_track2.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\core\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="cover" IsExpanded="true" FileName="scripts\upsmon\common\cover">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\cover\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fnc_filter.sqf" IsExpanded="false" FileName="scripts\upsmon\common\cover\fnc\upsmon_fnc_filter.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fnc_find_cover.sqf" IsExpanded="false" FileName="scripts\upsmon\common\cover\fnc\upsmon_fnc_find_cover.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fnc_move_to_cover.sqf" IsExpanded="false" FileName="scripts\upsmon\common\cover\fnc\upsmon_fnc_move_to_cover.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\cover\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="group" IsExpanded="true" FileName="scripts\upsmon\common\group">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\group\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_analysegrp.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_analysegrp.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_cangrpmaneuver.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_cangrpmaneuver.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_changeformation.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_changeformation.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkallied.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_checkallied.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkmunition.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_checkmunition.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checksizetargetgrp.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_checksizetargetgrp.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_composeteam.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_composeteam.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getleader.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_getleader.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getnearestsoldier.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_getnearestsoldier.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getstaticteam.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_getstaticteam.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getunits.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_getunits.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_gothitparam.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_gothitparam.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_grptype.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_grptype.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_isgrpstuck.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_isgrpstuck.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_isretreating.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_isretreating.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_issurrending.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_issurrending.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_setleadergrp.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_setleadergrp.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_supressfire.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_supressfire.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_supstatestatus.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\fnc\upsmon_supstatestatus.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\group\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="mp" IsExpanded="true" FileName="scripts\upsmon\common\mp">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\mp\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fnc_setvehicleinit.sqf" IsExpanded="false" FileName="scripts\upsmon\common\mp\fnc\upsmon_fnc_setvehicleinit.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fnc_setvehiclevarname.sqf" IsExpanded="false" FileName="scripts\upsmon\common\mp\fnc\upsmon_fnc_setvehiclevarname.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\mp\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="params" IsExpanded="true" FileName="scripts\upsmon\common\params">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\params\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_backtonormal.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_backtonormal.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getgroupbehaviour.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_getgroupbehaviour.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getgroupformation.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_getgroupformation.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getgroupspeed.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_getgroupspeed.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getparams.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_getparams.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getrespawndelay.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_getrespawndelay.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getrespawnpos.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_getrespawnpos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getrespawntime.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_getrespawntime.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_nosmoke.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_nosmoke.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_setclones.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_setclones.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_seteventhandlers.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_seteventhandlers.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_setmarkerarea.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_setmarkerarea.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_setrenfparam.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_setrenfparam.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_settemplate.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\fnc\upsmon_settemplate.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\params\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="target" IsExpanded="true" FileName="scripts\upsmon\common\target">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\target\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkratio.sqf" IsExpanded="false" FileName="scripts\upsmon\common\target\fnc\upsmon_checkratio.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_classifyenies.sqf" IsExpanded="false" FileName="scripts\upsmon\common\target\fnc\upsmon_classifyenies.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_eniesnear.sqf" IsExpanded="false" FileName="scripts\upsmon\common\target\fnc\upsmon_eniesnear.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_findnearestenemy.sqf" IsExpanded="false" FileName="scripts\upsmon\common\target\fnc\upsmon_findnearestenemy.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_shareinfos.sqf" IsExpanded="false" FileName="scripts\upsmon\common\target\fnc\upsmon_shareinfos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_targetacquisition.sqf" IsExpanded="false" FileName="scripts\upsmon\common\target\fnc\upsmon_targetacquisition.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_targetacquisitionciv.sqf" IsExpanded="false" FileName="scripts\upsmon\common\target\fnc\upsmon_targetacquisitionciv.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\target\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="terrain" IsExpanded="true" FileName="scripts\upsmon\common\terrain">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\terrain\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_sample_terrain.sqf" IsExpanded="false" FileName="scripts\upsmon\common\terrain\fnc\upsmon_sample_terrain.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_terracognita.sqf" IsExpanded="false" FileName="scripts\upsmon\common\terrain\fnc\upsmon_terracognita.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\terrain\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="unit" IsExpanded="true" FileName="scripts\upsmon\common\unit">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\unit\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_addequipment.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_addequipment.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_cancelstop.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_cancelstop.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_createsmokecover.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_createsmokecover.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_deadbodies.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_deadbodies.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_deploystatic.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_deploystatic.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_disableunitloop.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_disableunitloop.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dofireflare.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_dofireflare.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dogetout.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_dogetout.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_domove.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_domove.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dorearm.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_dorearm.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dosmokescreen.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_dosmokescreen.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dostop.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_dostop.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dosurrender.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_dosurrender.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dowatch.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_dowatch.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fireflare.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_fireflare.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_firegun.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_firegun.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_firing.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_firing.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getequipment.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_getequipment.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getmemberstype.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_getmemberstype.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_movetodriver.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_movetodriver.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_movetogunner.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_movetogunner.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_packbag.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_packbag.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_putmine.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_putmine.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_putsatchel.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_putsatchel.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_rearm.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_rearm.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_setminefield.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_setminefield.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_setsatchel.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_setsatchel.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_surrended.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_surrended.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_throw_grenade.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_throw_grenade.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_throw_stone.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_throw_stone.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_unpackbag.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_unpackbag.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_watchbino.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\fnc\upsmon_watchbino.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\unit\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="vehicles" IsExpanded="true" FileName="scripts\upsmon\common\vehicles">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\common\vehicles\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_allowgetin.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_allowgetin.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_assignasgunner.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_assignasgunner.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_assignasrole.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_assignasrole.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_avoiddissembark.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_avoiddissembark.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkleavevehicle.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_checkleavevehicle.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checkvehiclesstatus.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_checkvehiclesstatus.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_ejectunits.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_ejectunits.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_emptyturret.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_emptyturret.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fn_gunnercrew.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_fn_gunnercrew.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fn_unitsincargo.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_fn_unitsincargo.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fnc_commonturrets.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_fnc_commonturrets.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getin_nearestvehicles.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_getin_nearestvehicles.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getneareststatics.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_getneareststatics.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getnearestvehicles.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_getnearestvehicles.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_gunnercontrol.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_gunnercontrol.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_selectvehicles.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_selectvehicles.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_unitsgetin.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_unitsgetin.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_unitsgetout.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\fnc\upsmon_unitsgetout.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\vehicles\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\common\init.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="markeralpha.sqf" IsExpanded="false" FileName="scripts\upsmon\common\markeralpha.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_closedoor.sqf" IsExpanded="false" FileName="scripts\upsmon\common\upsmon_closedoor.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                </SubNodes>
+              </ProjectNodeViewModel>
+              <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="get_pos" IsExpanded="true" FileName="scripts\upsmon\get_pos">
+                <IsSelected>false</IsSelected>
+                <SubNodes>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_findclosestposition.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_findclosestposition.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_getmarkercorners.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_getmarkercorners.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_getmarkershape.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_getmarkershape.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_getpos.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_getpos.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_getposfromcircle.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_getposfromcircle.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_getposfromellipse.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_getposfromellipse.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_getposfromrectangle.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_getposfromrectangle.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_getposfromsquare.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_getposfromsquare.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_isblacklisted.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_isblacklisted.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_isincircle.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_isincircle.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_isinellipse.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_isinellipse.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_isinrectangle.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_isinrectangle.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_issameposition.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_issameposition.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_fnc_rotateposition.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_fnc_rotateposition.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_getpos.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_getpos.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_getposmarker.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_getposmarker.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_pos_init.sqf" IsExpanded="false" FileName="scripts\upsmon\get_pos\upsmon_pos_init.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                </SubNodes>
+              </ProjectNodeViewModel>
+              <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="modules" IsExpanded="true" FileName="scripts\upsmon\modules">
+                <IsSelected>false</IsSelected>
+                <SubNodes>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="ambush" IsExpanded="true" FileName="scripts\upsmon\modules\ambush">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\ambush\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_findambushpos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\ambush\fnc\upsmon_findambushpos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getambushpos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\ambush\fnc\upsmon_getambushpos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_setambush.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\ambush\fnc\upsmon_setambush.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\ambush\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="artillery" IsExpanded="true" FileName="scripts\upsmon\modules\artillery">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\artillery\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_artichk.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_artichk.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_artillerybatteryout.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_artillerybatteryout.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_artillerydofire.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_artillerydofire.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_artillerysetbattery.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_artillerysetbattery.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_flaretime.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_flaretime.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fo.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_fo.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getartitarget.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_getartitarget.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getdefaultmun.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_getdefaultmun.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getmuninfos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_getmuninfos.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getmuninfosbackpack.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_getmuninfosbackpack.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_selectartillery.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_selectartillery.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_splashzone.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\fnc\upsmon_splashzone.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\artillery\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fortify" IsExpanded="true" FileName="scripts\upsmon\modules\fortify">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\fortify\fnc">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_fortify.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\fortify\fnc\upsmon_fortify.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_movebuildings.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\fortify\fnc\upsmon_movebuildings.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_movenearestbuildings.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\fortify\fnc\upsmon_movenearestbuildings.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_movetobuilding.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\fortify\fnc\upsmon_movetobuilding.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_patrolbuilding.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\fortify\fnc\upsmon_patrolbuilding.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_spawninbuildings.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\fortify\fnc\upsmon_spawninbuildings.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_unitdefend.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\fortify\fnc\upsmon_unitdefend.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\fortify\init.sqf">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes />
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="orders" IsExpanded="true" FileName="scripts\upsmon\modules\orders">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_assault" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_assault">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_assault\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_assltbld.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_assault\fnc\upsmon_assltbld.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_assltposition.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_assault\fnc\upsmon_assltposition.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_doassault.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_assault\fnc\upsmon_doassault.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_planasslt.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_assault\fnc\upsmon_planasslt.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_assault\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_defend" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_defend">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_defend\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dodefend.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_defend\fnc\upsmon_dodefend.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_srchguardpos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_defend\fnc\upsmon_srchguardpos.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_defend\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_flank" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_flank">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_flank\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_doflank.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_flank\fnc\upsmon_doflank.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_planflank.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_flank\fnc\upsmon_planflank.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_srchflankpos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_flank\fnc\upsmon_srchflankpos.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_srchflankposforboat.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_flank\fnc\upsmon_srchflankposforboat.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_flank\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_patrol" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_patrol">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_patrol\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dopatrol.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_patrol\fnc\upsmon_dopatrol.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_srchptrlpos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_patrol\fnc\upsmon_srchptrlpos.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_patrol\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_patrolsrch" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_patrolsrch">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_patrolsrch\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dopatrolsrch.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_patrolsrch\fnc\upsmon_dopatrolsrch.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getinpatrolsrch.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_patrolsrch\fnc\upsmon_getinpatrolsrch.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_srchptrlflankpos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_patrolsrch\fnc\upsmon_srchptrlflankpos.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_patrolsrch\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_reinforcement" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_reinforcement">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_reinforcement\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_callrenf.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_reinforcement\fnc\upsmon_callrenf.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getreinfpos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_reinforcement\fnc\upsmon_getreinfpos.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_reinfchk.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_reinforcement\fnc\upsmon_reinfchk.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_reinforcement\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_relax" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_relax">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_relax\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_civaction.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_relax\fnc\upsmon_civaction.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dorelax.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_relax\fnc\upsmon_dorelax.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_relax\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_retreat" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_retreat">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_retreat\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_doretreat.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_retreat\fnc\upsmon_doretreat.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_srchretreatpos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_retreat\fnc\upsmon_srchretreatpos.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_retreat\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_supply" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_supply">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_supply\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getsupply.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_supply\fnc\upsmon_getsupply.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getsupplypos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_supply\fnc\upsmon_getsupplypos.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_supply\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="upsmon_transport" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_transport">
+                        <IsSelected>false</IsSelected>
+                        <SubNodes>
+                          <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="fnc" IsExpanded="true" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checktransport.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_checktransport.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_checktransported.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_checktransported.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_disembarkment.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_disembarkment.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dodisembark.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_dodisembark.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dofindcombatvehicle.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_dofindcombatvehicle.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dofindvehicle.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_dofindvehicle.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dohelidisembark.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_dohelidisembark.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_doparadrop.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_doparadrop.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_embarkment.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_embarkment.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_getinassignedveh.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_getinassignedveh.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_gettransport.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_gettransport.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_keepaltitude.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_keepaltitude.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_returnbase.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_returnbase.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_srchtrppos.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\fnc\upsmon_srchtrppos.sqf">
+                                <IsSelected>false</IsSelected>
+                                <SubNodes />
+                              </ProjectNodeViewModel>
+                            </SubNodes>
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\init.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_dofindstatic.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\orders\upsmon_transport\upsmon_dofindstatic.sqf">
+                            <IsSelected>false</IsSelected>
+                            <SubNodes />
+                          </ProjectNodeViewModel>
+                        </SubNodes>
+                      </ProjectNodeViewModel>
+                    </SubNodes>
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\init.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_clones.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\upsmon_clones.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_modifyucthis.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\upsmon_modifyucthis.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_respawn.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\upsmon_respawn.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                  <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_spawn.sqf" IsExpanded="false" FileName="scripts\upsmon\modules\upsmon_spawn.sqf">
+                    <IsSelected>false</IsSelected>
+                    <SubNodes />
+                  </ProjectNodeViewModel>
+                </SubNodes>
+              </ProjectNodeViewModel>
+              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="mon_artillery_add.sqf" IsExpanded="false" FileName="scripts\upsmon\mon_artillery_add.sqf">
+                <IsSelected>false</IsSelected>
+                <SubNodes />
+              </ProjectNodeViewModel>
+              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_creategroup.sqf" IsExpanded="false" FileName="scripts\upsmon\upsmon_creategroup.sqf">
+                <IsSelected>false</IsSelected>
+                <SubNodes />
+              </ProjectNodeViewModel>
+              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_mainloop.sqf" IsExpanded="false" FileName="scripts\upsmon\upsmon_mainloop.sqf">
+                <IsSelected>false</IsSelected>
+                <SubNodes />
+              </ProjectNodeViewModel>
+              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon_mainloopciv.sqf" IsExpanded="false" FileName="scripts\upsmon\upsmon_mainloopciv.sqf">
+                <IsSelected>false</IsSelected>
+                <SubNodes />
+              </ProjectNodeViewModel>
+            </SubNodes>
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="attackwaves.sqf" IsExpanded="false" FileName="scripts\attackwaves.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="customminefield.sqf" IsExpanded="false" FileName="scripts\customminefield.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fn_advancedtowinginit.sqf" IsExpanded="false" FileName="scripts\fn_advancedtowinginit.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="helifastrope.sqf" IsExpanded="false" FileName="scripts\helifastrope.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="heliloiter.sqf" IsExpanded="false" FileName="scripts\heliloiter.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init_upsmon.sqf" IsExpanded="false" FileName="scripts\init_upsmon.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="movestatic.sqf" IsExpanded="false" FileName="scripts\movestatic.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="shk_fastrope.sqf" IsExpanded="false" FileName="scripts\shk_fastrope.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="spawngear.sqf" IsExpanded="false" FileName="scripts\spawngear.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="toggledevice.sqf" IsExpanded="false" FileName="scripts\toggledevice.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="transporttroops.sqf" IsExpanded="false" FileName="scripts\transporttroops.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="upsmon.sqf" IsExpanded="false" FileName="scripts\upsmon.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="weaponcheck.sqf" IsExpanded="false" FileName="scripts\weaponcheck.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFolderNodeViewModel" Name="statsave" IsExpanded="false" FileName="statsave">
+        <IsSelected>false</IsSelected>
+        <SubNodes>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="loadaccount.sqf" IsExpanded="false" FileName="statsave\loadaccount.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="savefuncs.sqf" IsExpanded="false" FileName="statsave\savefuncs.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="saveloop.sqf" IsExpanded="false" FileName="statsave\saveloop.sqf">
+            <IsSelected>false</IsSelected>
+            <SubNodes />
+          </ProjectNodeViewModel>
+        </SubNodes>
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="aafassets.sqf" IsExpanded="false" FileName="aafassets.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="aafeconomics.sqf" IsExpanded="false" FileName="aafeconomics.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="addtimeforidle.sqf" IsExpanded="false" FileName="addtimeforidle.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="altfasttravel.sqf" IsExpanded="false" FileName="altfasttravel.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="apagon.sqf" IsExpanded="false" FileName="apagon.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="ataqueaaf.sqf" IsExpanded="false" FileName="ataqueaaf.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="boost.sqf" IsExpanded="false" FileName="boost.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="briefing.sqf" IsExpanded="false" FileName="briefing.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="buildhq.sqf" IsExpanded="false" FileName="buildhq.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="captivemp.sqf" IsExpanded="false" FileName="captivemp.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="castigo.sqf" IsExpanded="false" FileName="castigo.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="citiestocivpatrol.sqf" IsExpanded="false" FileName="citiestocivpatrol.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="cityinfo.sqf" IsExpanded="false" FileName="cityinfo.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="citysupportchange.sqf" IsExpanded="false" FileName="citysupportchange.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="commsmp.sqf" IsExpanded="false" FileName="commsmp.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="crearcontroles.sqf" IsExpanded="false" FileName="crearcontroles.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="crearpuestosfia.sqf" IsExpanded="false" FileName="crearpuestosfia.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="createconv.sqf" IsExpanded="false" FileName="createconv.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="customminefield.sqf" IsExpanded="false" FileName="customminefield.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="customtextures.sqf" IsExpanded="false" FileName="customtextures.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="deletecontroles.sqf" IsExpanded="false" FileName="deletecontroles.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="description.ext" IsExpanded="false" FileName="description.ext">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="destroycheck.sqf" IsExpanded="false" FileName="destroycheck.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="destroycity.sqf" IsExpanded="false" FileName="destroycity.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="distanceunits.sqf" IsExpanded="false" FileName="distanceunits.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="distancias3.sqf" IsExpanded="false" FileName="distancias3.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="establishcamp.sqf" IsExpanded="false" FileName="establishcamp.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fasttravelradio.sqf" IsExpanded="false" FileName="fasttravelradio.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fiaradio.sqf" IsExpanded="false" FileName="fiaradio.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="findairportsforca.sqf" IsExpanded="false" FileName="findairportsforca.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="findbasesforca.sqf" IsExpanded="false" FileName="findbasesforca.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="findbasesforconvoy.sqf" IsExpanded="false" FileName="findbasesforconvoy.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="flagaction.sqf" IsExpanded="false" FileName="flagaction.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fn_location.sqf" IsExpanded="false" FileName="fn_location.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fpschange.sqf" IsExpanded="false" FileName="fpschange.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="fpscheck.sqf" IsExpanded="false" FileName="fpscheck.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="ftraveldialog.sqf" IsExpanded="false" FileName="ftraveldialog.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="garage.sqf" IsExpanded="false" FileName="garage.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="garagevehicle.sqf" IsExpanded="false" FileName="garagevehicle.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="garbagecleaner.sqf" IsExpanded="false" FileName="garbagecleaner.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="garrisoninfo.sqf" IsExpanded="false" FileName="garrisoninfo.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="heal.sqf" IsExpanded="false" FileName="heal.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="healandrepair.sqf" IsExpanded="false" FileName="healandrepair.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="init.sqf" IsExpanded="false" FileName="init.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="initfuncs.sqf" IsExpanded="false" FileName="initfuncs.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="initpetros.sqf" IsExpanded="false" FileName="initpetros.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="initplayerlocal.sqf" IsExpanded="false" FileName="initplayerlocal.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="initserver.sqf" IsExpanded="false" FileName="initserver.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="initvar.sqf" IsExpanded="false" FileName="initvar.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="initzones.sqf" IsExpanded="false" FileName="initzones.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="intelfound.sqf" IsExpanded="false" FileName="intelfound.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="isfrontline.sqf" IsExpanded="false" FileName="isfrontline.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="jamlrradio.sqf" IsExpanded="false" FileName="jamlrradio.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="localizar.sqf" IsExpanded="false" FileName="localizar.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="locmarkers.sqf" IsExpanded="false" FileName="locmarkers.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="modblacklist.sqf" IsExpanded="false" FileName="modblacklist.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="movehq.sqf" IsExpanded="false" FileName="movehq.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="movehqobject.sqf" IsExpanded="false" FileName="movehqobject.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="mrkloose.sqf" IsExpanded="false" FileName="mrkloose.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="mrkupdate.sqf" IsExpanded="false" FileName="mrkupdate.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="mrkwin.sqf" IsExpanded="false" FileName="mrkwin.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="musica.sqf" IsExpanded="false" FileName="musica.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="natodialog.sqf" IsExpanded="false" FileName="natodialog.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="numericrank.sqf" IsExpanded="false" FileName="numericrank.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="onplayerdisconnect.sqf" IsExpanded="false" FileName="onplayerdisconnect.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="onplayerrespawn.sqf" IsExpanded="false" FileName="onplayerrespawn.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="patroldestinos.sqf" IsExpanded="false" FileName="patroldestinos.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="pbarmp.sqf" IsExpanded="false" FileName="pbarmp.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="placementselection.sqf" IsExpanded="false" FileName="placementselection.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="playermarkers.sqf" IsExpanded="false" FileName="playermarkers.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="powercheck.sqf" IsExpanded="false" FileName="powercheck.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="powerreorg.sqf" IsExpanded="false" FileName="powerreorg.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="prestige.sqf" IsExpanded="false" FileName="prestige.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="puestodialog.sqf" IsExpanded="false" FileName="puestodialog.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="radiocheck.sqf" IsExpanded="false" FileName="radiocheck.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="rebuildassets.sqf" IsExpanded="false" FileName="rebuildassets.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="refuel.sqf" IsExpanded="false" FileName="refuel.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="reinity.sqf" IsExpanded="false" FileName="reinity.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="resourcecheck.sqf" IsExpanded="false" FileName="resourcecheck.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="resourcecheckskiptime.sqf" IsExpanded="false" FileName="resourcecheckskiptime.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="resourcesaaf.sqf" IsExpanded="false" FileName="resourcesaaf.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="resourcesfia.sqf" IsExpanded="false" FileName="resourcesfia.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="resyncarsenal.sqf" IsExpanded="false" FileName="resyncarsenal.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="returnmuzzle.sqf" IsExpanded="false" FileName="returnmuzzle.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="revealtoplayer.sqf" IsExpanded="false" FileName="revealtoplayer.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="roadsdb.sqf" IsExpanded="false" FileName="roadsdb.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="sellvehicle.sqf" IsExpanded="false" FileName="sellvehicle.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="serverautosave.sqf" IsExpanded="false" FileName="serverautosave.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="shk_fastrope.sqf" IsExpanded="false" FileName="shk_fastrope.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="sizemarker.sqf" IsExpanded="false" FileName="sizemarker.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="skiptime.sqf" IsExpanded="false" FileName="skiptime.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="statistics.sqf" IsExpanded="false" FileName="statistics.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="tags.sqf" IsExpanded="false" FileName="tags.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="teclas.sqf" IsExpanded="false" FileName="teclas.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="teleport.sqf" IsExpanded="false" FileName="teleport.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="tempmovemrk.sqf" IsExpanded="false" FileName="tempmovemrk.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="timingca.sqf" IsExpanded="false" FileName="timingca.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="undercover.sqf" IsExpanded="false" FileName="undercover.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+      <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="unlockvehicle.sqf" IsExpanded="true" FileName="unlockvehicle.sqf">
+        <IsSelected>false</IsSelected>
+        <SubNodes />
+      </ProjectNodeViewModel>
+    </SubNodes>
+  </ProjectRootNode>
+  <FilteredAnalyzerResultItems />
+</Project>
